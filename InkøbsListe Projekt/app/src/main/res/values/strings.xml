@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">ShoppingApp</string>
+    <string name="title_activity_items">ActivityItems</string>
+    <string name="list_is_empty">List is empty</string>
+    <string name="activity_items">Activity Items</string>
+    <string name="activity_shops">Activity Shops</string>
+    <string name="button">Button</string>
+    <string name="opret_indk_bsliste">Opret Indkøbsliste</string>
+    <string name="navn_p_indk_bsliste">Navn på indkøbsliste</string>
+    <string name="fjern_valgte">Fjern valgte</string>
+    <string name="tilf_j_varer">Tilføj varer</string>
+    <string name="slet">Slet</string>
+    <string name="skift_navn">Skift navn</string>
+    <string name="opret_butik">Opret butik</string>
+    <string name="butiksnavn">Butiksnavn</string>
+    <string name="hjemmeside">Hjemmeside</string>
+    <string name="adresse">Adresse</string>
+    <string name="sort_r_efter_navn">Sortér efter navn</string>
+    <string name="items">Items</string>
+    <string name="shoppinglists">ShoppingLists</string>
+    <string name="shops">Shops</string>
+    <string name="sort_r_efter_pris">Sortér efter pris</string>
+    <string name="sort_r_efter_tilf_jet">Sortér efter tilføjet</string>
+    <string name="varens_navn">Varens navn</string>
+    <string name="enhed">Enhed</string>
+    <string name="m_ngde">Mængde</string>
+    <string name="pris_i_kr">Pris i kr</string>
+    <string name="opret_vare">Opret vare</string>
+    <string name="name">Name</string>
+    <string name="amount">Amount</string>
+    <string name="amounttype">AmountType</string>
+    <string name="price">Price</string>
+    <string name="ret_pris">Ret pris</string>
+    <string name="indtast_den_nskede_pris">Indtast den ønskede pris</string>
+    <string name="ret_antal">Ret antal</string>
+    <string name="indtast_det_nskede_antal">Indtast det ønskede antal</string>
+    <string-array name="amounttype">
+        <item>Stk.</item>
+        <item>Ks.</item>
+        <item>G.</item>
+        <item>Kg.</item>
+        <item>L.</item>
+        <item>Ml.</item>
+        <item>Cl.</item>
+    </string-array>
+</resources>

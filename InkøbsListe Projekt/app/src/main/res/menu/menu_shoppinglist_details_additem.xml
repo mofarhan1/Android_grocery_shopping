@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/actionSortByName"
+        android:title="@string/sort_r_efter_navn"
+        android:orderInCategory="4"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/actionSortByPrice"
+        android:title="@string/sort_r_efter_pris"
+        android:orderInCategory="5"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/actionSortByAdded"
+        android:title="@string/sort_r_efter_tilf_jet"
+        android:orderInCategory="6"
+        app:showAsAction="never" />
+</menu>

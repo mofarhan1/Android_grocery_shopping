@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/ShopsIcon"
+        android:title="@string/shops"
+        android:icon="@drawable/baseline_store_white_48"
+        android:orderInCategory="1"
+        app:showAsAction="always" />
+
+    <item android:id="@+id/ShoppingListIcon"
+        android:title="@string/shoppinglists"
+        android:icon="@drawable/baseline_format_list_bulleted_white_48"
+        android:orderInCategory="2"
+        app:showAsAction="always" />
+
+    <item android:id="@+id/ItemsIcon"
+        android:title="@string/items"
+        android:icon="@drawable/baseline_shopping_basket_white_48"
+        android:orderInCategory="3"
+        app:showAsAction="always" />
+
+    <item android:id="@+id/actionSortByName"
+        android:title="@string/sort_r_efter_navn"
+        android:orderInCategory="4"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/actionSortByPrice"
+        android:title="@string/sort_r_efter_pris"
+        android:orderInCategory="5"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/actionSortByAdded"
+        android:title="@string/sort_r_efter_tilf_jet"
+        android:orderInCategory="6"
+        app:showAsAction="never" />
+
+
+</menu>
